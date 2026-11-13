@@ -1,0 +1,8 @@
+{
+  "name": "richess-ventures",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start", "lint": "next lint" },
+  "dependencies": { "@gsap/react": "^2.1.2", "gsap": "^3.12.5", "next": "^15.1.4", "react": "^19.0.0", "react-dom": "^19.0.0" },
+  "devDependencies": { "@types/node": "^22", "@types/react": "^19", "typescript": "^5" }
+}
